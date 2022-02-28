@@ -1,5 +1,11 @@
-td#td2
-{
-  
-  padding: 10px;}
-
+#details td {
+  padding: 20px;
+}
+td#right-column {
+  padding: 10px;
+  color: white;
+}
+td#left-column {
+  color: black;
+  padding: 20px;
+}
